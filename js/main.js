@@ -15,9 +15,10 @@
 
 // while loop
 
-let i = 1
-
-while (i <= 10){
-    a = i++
-    console.log(a);
-}
+let count = 1
+let answer = 0
+while (count <= 10){
+    answer = answer + count
+    count++
+    console.log(answer);
+} 
