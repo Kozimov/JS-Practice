@@ -15,10 +15,28 @@
 
 // while loop
 
-let count = 1
-let answer = 0
-while (count <= 10){
-    answer = answer + count
-    count++
-    console.log(answer);
-} 
+// let count = 1
+// let answer = 0
+// while (count <= 10){
+//     answer = answer + count
+//     count++
+//     console.log(answer);
+// } 
+
+// 15-vazifa
+
+// let a = 10
+// let b = 10 
+
+
+// let plus = `${a} + ${b} = ${a + b}`
+// let minus = `${a} - ${b} = ${a - b}`
+// let multiplication = `${a} * ${b} = ${a * b}`
+// let devision = `${a} / ${b} = ${a / b}`
+
+// console.log(plus);
+// console.log(minus);
+// console.log(multiplication);
+// console.log(devision);
+
+
