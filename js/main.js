@@ -40,3 +40,12 @@
 // console.log(devision);
 
 
+// function about(ism, familiya) {
+//     let aboutMe = `Lorem ipsum dolor, sit amet ${ism + familiya} consectetur adipisicing elit. Quasi veniam eaque a non eveniet vero nam, sed saepe ab facere veritatis assumenda totam provident delectus ea ad! Excepturi, ipsam vitae?`
+//     console.log(aboutMe);
+// }
+
+// about("Ziyohiddin ", "Kozimov")
+
+
+
